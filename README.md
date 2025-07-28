@@ -1,4 +1,4 @@
-Com certeza! Aqui está a descrição completa e o guia de instalação passo a passo para o seu README.md, focando no Laravel Sail e na utilidade do projeto.
+
 
 Gerenciador de Termos de Responsabilidade
 Este é um sistema web robusto e intuitivo, desenvolvido em Laravel, projetado para otimizar e automatizar o processo de gestão de termos de responsabilidade. Ele oferece uma solução completa para o registro eficiente de informações de usuários e equipamentos (como notebooks, celulares, ferramentas, etc.), culminando na geração automática de termos de responsabilidade em formatos padronizados DOCX e PDF.
